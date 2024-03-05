@@ -106,3 +106,12 @@
     justify-content: space-around;
     padding: 10px;
 }
+.loading-cotnainer{
+    display: none;
+}
+#not-found{
+    display: none;
+}
+.cart-info{
+    display: flex;
+}
